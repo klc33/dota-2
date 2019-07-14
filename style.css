@@ -1,0 +1,25 @@
+body{
+	font-family:monospace;
+	line-height:2em;
+	font-size: 18px;
+}
+.dd{
+	background-color: black;
+	color:white;
+	padding: 0 10px;
+
+
+
+}
+.dd a{
+	color:white;
+
+
+}
+
+.dd span{
+	float: right;
+}
+ .footer h1{
+ 	font-size:25px;
+ }
